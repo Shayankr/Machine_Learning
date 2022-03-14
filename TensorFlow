@@ -1,0 +1,12 @@
+Here,TensorFlow is discussed in detail.
+
+TensorFlow is a Python library for fast numerical computing created and released by Google.
+
+Google built the underlying TensorFlow software with the C++ programming language.
+
+TensorFlow is a free and open-source software library for machine learning and artificial intelligence.
+
+TensorFlow is developed by Google primarily for deep learning applications. It also supports traditional machine learning.
+
+Keras is a minimalist Python library for deep learning that
+can run on top of Theano or TensorFlow. It was developed to make implementing deep learning models as fast and easy as possible for research and development.
